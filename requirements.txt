@@ -1,4 +1,3 @@
-numpy
 scipy
 matplotlib
 tqdm
@@ -8,4 +7,5 @@ pillow
 SimpleITK
 h5py
 opencv-python
+Cython
 pycocotools
